@@ -4,3 +4,4 @@
 
 * [General info](#general-info)
 * [Features of the App](#features-of-the-app)
+* [Used Technologies](used-technologies)
