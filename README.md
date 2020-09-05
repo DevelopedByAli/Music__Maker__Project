@@ -2,4 +2,4 @@
 
 ## Contents
 
-*[General info](#general-info)
+* [General info](#general-info)
