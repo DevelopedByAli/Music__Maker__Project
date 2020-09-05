@@ -3,3 +3,4 @@
 ## Contents
 
 * [General info](#general-info)
+* [Features of the App](#features-of-the-app)
