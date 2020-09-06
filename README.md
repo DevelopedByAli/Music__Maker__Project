@@ -1,4 +1,4 @@
-# Music__Maker__App__Project
+# Music_Maker_App_Project
 
 ## Contents
 
