@@ -8,4 +8,6 @@
 
 ## General info
 
+## Features of the App
+
 
