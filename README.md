@@ -10,4 +10,6 @@
 
 ## Features of the App
 
+## Used Technologies
+
 
