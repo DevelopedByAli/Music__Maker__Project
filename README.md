@@ -8,4 +8,4 @@
 
 ## General info
 
-The project  
+
