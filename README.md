@@ -8,6 +8,7 @@
 
 ## General info
 
+The app uses the idea of @developedbyed's Music app project. 
 ## Features of the App
 
 ## Used Technologies
