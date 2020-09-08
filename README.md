@@ -12,7 +12,7 @@ The app uses the similar idea of @developedbyed's Music app project. It creates 
 
 ## Features of the App
 
-The app consists of two folders.  
+The app consists of two folders.  First folder includes all sounds and the second folder includes all the other folders.
 
 ## Used Technologies
 
