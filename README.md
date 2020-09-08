@@ -12,6 +12,8 @@ The app uses the similar idea of @developedbyed's Music app project. It creates 
 
 ## Features of the App
 
+The app consists of two parts.  
+
 ## Used Technologies
 
 
