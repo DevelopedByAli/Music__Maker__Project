@@ -12,7 +12,7 @@ The app uses the similar idea of @developedbyed's Music app project. It creates 
 
 ## Features of the App
 
-The app consists of two parts.  
+The app consists of two folders.  
 
 ## Used Technologies
 
