@@ -16,4 +16,6 @@ The app consists of two parts.
 
 ## Used Technologies
 
-
+* JS6
+* HTML 5
+* CSS 3
